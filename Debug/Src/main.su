@@ -1,0 +1,6 @@
+../Src/main.c:41:5:main	24	static,ignoring_inline_asm
+../Src/main.c:98:6:GPIO_Init_Buttons	24	static
+../Src/main.c:114:6:GPIO_Init_7Segment	40	static
+../Src/main.c:147:6:TIM4_Init	16	static
+../Src/main.c:169:6:TIM4_IRQHandler	16	static
+../Src/main.c:220:6:NVIC_EnableIRQ	16	static
